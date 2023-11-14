@@ -1,0 +1,10 @@
+# .gitignore
+/build/
+/install/
+/log/
+/src/
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
